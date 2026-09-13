@@ -28,7 +28,6 @@ Welcome to **TechMintLab**, your go-to partner for cutting-edge software solutio
 We'd love to hear from you! Whether you're interested in collaborating on a project or just want to say hello, feel free to reach out.
 
 - **Email:** [support@techmintlab.com](mailto:support@techmintlab.com)
-- **Phone:** +917027944324
 - **Website:** [www.techmintlab.com](https://www.techmintlab.com)
 - **LinkedIn:** [TechMintLab on LinkedIn](https://www.linkedin.com/company/techmintlab/posts/?feedView=all)
 
